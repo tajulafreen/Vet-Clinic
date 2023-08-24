@@ -24,10 +24,10 @@ INSERT INTO animals (id, name, date_of_birth, escape_attempts, neutered, weight_
 VALUES (7, 'Squirtle', '1993-04-02', 3, FALSE, -12.13);
 
 INSERT INTO animals (id, name, date_of_birth, escape_attempts, neutered, weight_kg)
-VALUES (8, 'Angemon', '2005-05-12', 1, TRUE, -45);
+VALUES (8, 'Angemon', '2005-06-12', 1, TRUE, -45);
 
 INSERT INTO animals (id, name, date_of_birth, escape_attempts, neutered, weight_kg)
-VALUES (9, 'Boarmon', '2005-05-07', 7, TRUE, 20.4);
+VALUES (9, 'Boarmon', '2005-06-07', 7, TRUE, 20.4);
 
 INSERT INTO animals (id, name, date_of_birth, escape_attempts, neutered, weight_kg)
 VALUES (10, 'Blossom', '1998-10-13', 3, TRUE, 17);
