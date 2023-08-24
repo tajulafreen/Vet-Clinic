@@ -21,7 +21,6 @@ BEGIN;
 UPDATE animals SET species = 'unspecified';
 SELECT * FROM animals; -- verify the change
 ROLLBACK;
-SELECT * FROM animals WHERE; -- verify the rollback
 
 /*The BEGIN statement starts a new transaction. The first UPDATE statement updates all rows in the 'animals'
 table where the 'name' column ends with 'mon' by setting the 'species' column to 'digimon'.
